@@ -2,4 +2,4 @@
 Anotaciones sobre los episodios de Hasta el Hueso
 
 
-[EP 21 Victor Gaviria](hasta_el_hueso_EP_21)
+[hasta_el_hueso_EP_21](https://github.com/son0p/episodios_hasta_el_hueso_anotados/blob/main/hasta_el_hueso_EP21.org)
