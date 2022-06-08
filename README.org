@@ -1,5 +1,5 @@
 * Episodios Hasta El Hueso (Anotados)
-Desambiguación: Hasta el Hueso se refiere a una serie de episodios de audio con la participación de Jehny Duque y Lukas Jaramillo entre otros.
+Desambiguación: Hasta el Hueso se refiere a una serie de episodios, ambientados en Medellín,  con la participación de invitados y la orientación de Jehny Duque,  Lukas Jaramillo, Martha Pelaez, Juliana Betancur, entre otros.
 
 
-[[https://github.com/son0p/episodios_hasta_el_hueso_anotados/blob/main/hasta_el_hueso_EP21.org][Hasta_el_hueso_EP_2]]
+[[https://github.com/son0p/episodios_hasta_el_hueso_anotados/blob/main/hasta_el_hueso_EP21.org][Hasta_el_hueso_EP_21]]
