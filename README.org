@@ -3,3 +3,5 @@ Desambiguación: Hasta el Hueso se refiere a una serie de episodios, ambientados
 
 
 [[https://github.com/son0p/episodios_hasta_el_hueso_anotados/blob/main/hasta_el_hueso_EP21.org][Hasta_el_hueso_EP_21]]
+
+[[https://github.com/son0p/episodios_hasta_el_hueso_anotados/blob/main/hasta_el_hueso_EP23.org][Hasta_el_hueso_EP_23]]
